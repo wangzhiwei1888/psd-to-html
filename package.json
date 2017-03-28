@@ -1,6 +1,6 @@
 {
-  "name": "psd-to-html",
-  "version": "1.0.0",
+  "name": "psd-2-html",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
