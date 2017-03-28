@@ -1,13 +1,13 @@
 {
   "name": "psd-2-html",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "psd-to-html": "bin/psd-to-html"
+    "psd-2-html": "bin/psd-to-html"
   },
   "keywords": [],
   "author": "",
