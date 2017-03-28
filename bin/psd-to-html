@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+console.log('start psd-to-html');
+console.log('当前目录：'+process.cwd());
+console.log('npm目录'+process.mainModule.paths[2]);
+
+require('../index.js').init(process.argv);
